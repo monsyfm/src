@@ -3,6 +3,6 @@
 int main() {
     printf("Hola Mundo carmen monterrat flores medina\n");  // Imprime el mensaje en la consola
      printf("HOLA\n");
-      printf("CAMBIO PARA LA SEGUNDA VERSIÓN \n");
+      printf("CAMBIO PARA LA SEGUNDA VERSIÓ 3N \n");
     return 0;                // Indica que el programa terminó correctamente
 }
